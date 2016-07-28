@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">ConstraintsLayoutSample</string>
+    <string name="at_name">Finn The Human</string>
+    <string name="at_phone">555 - 000 - 000</string>
+    <string name="at_loc">CANDYLAND</string>
+    <string name="at_web">www.finnthehuman.com</string>
+    <string name="at_mail">finnthehuman@gmail.com</string>
     <string name="bb_desc">Breaking Bad is an American crime drama television series created and produced by Vince Gilligan. The story of Walter White, a struggling high school chemistry teacher diagnosed with inoperable lung cancer.</string>
 
 
